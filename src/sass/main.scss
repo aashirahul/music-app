@@ -1,0 +1,97 @@
+.container{
+	width:80%;
+	margin: auto;
+	background-color: #f3f3d7;
+	
+}
+.app-name{
+	text-align: center;
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-bottom: 13px;
+	font-size: 55px;
+	font-family: Dancing Script;
+	color: #cab5b9;
+    font-weight: 600;
+}
+.music{
+	margin-top: 5px;
+	text-align: center;
+}
+.track-title{	
+	margin-bottom: 5px;
+    border-bottom: 2px solid #cebfbf;
+}
+.status{
+	display: inline-block;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-family: Dancing Script;
+	font-size: 25px;
+}
+.track{
+	display: inline-block;
+	font-size: 17px;
+	font-family: Architects Daughter;
+}
+.audio-box{
+	width:100%;
+	text-align: center;
+}
+.play-mode{
+	width: 65%;
+	border: 2px solid #e4aaaa;
+}
+.search-box{
+	width: 100%;
+	text-align: center;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.text{
+	font-family: Dancing Script;
+	font-size: 25px;
+	margin-bottom: 15px;
+	padding-top: 10px;
+ 	border-top: 2px solid #cebfbf;
+}
+.user_input{
+	width: 40%;
+	border: 2px solid #e4aaaa;
+}
+.result-box{
+	width:100%;
+	margin-top: 10px;
+	text-align: center;
+	background-color: #f3f3d7;
+}
+.block{
+	width: 300px;
+	margin: 10px;
+	padding: 6px;
+	display: inline-block;
+	background-color: #ccc;
+}
+.song-title{
+	width: 80%;
+	text-align:center;
+}
+.song{
+	width:100%;
+	height: 20px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow:ellipsis;
+	font-size: 17px;
+	font-family: Architects Daughter;
+	text-align: center;
+}
+.name{
+	width:100%;
+	font-size: 17px;
+	font-family: Architects Daughter;
+	text-align: center;
+	padding: 4px;
+}
+/*# sourceMappingURL=main.css.map */
