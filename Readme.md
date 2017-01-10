@@ -3,7 +3,6 @@
 
 **[View live on Surge](https://tiy-ashimashrivastava-music-app.surge.sh
 )
-tiy-ashimashrivastava-music-app.surge.sh
 
 
 #Objective:
