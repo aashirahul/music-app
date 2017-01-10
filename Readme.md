@@ -1,7 +1,8 @@
 # Week-4
 ## Weekend Assignment: To build a Music application using Sound Cloud Data application
 
-**Link to surge:
+**[View live on Surge](https://tiy-ashimashrivastava-music-app.surge.sh
+)
 tiy-ashimashrivastava-music-app.surge.sh
 
 
